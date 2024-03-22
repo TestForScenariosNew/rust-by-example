@@ -1,4 +1,4 @@
-# Rust By Example1234123
+# Rust By Example
 
 [![Build Status][travis-badge]][travis-repo]
 
